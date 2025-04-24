@@ -203,13 +203,13 @@ display: flex;
         background-color: #404bbf;
         border-radius: 2px;
 }
-.contact-tel {
+/* .contact-tel {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
         font-size: 16px;
     
         /* line-height: 24px; */
-        line-height: 1.5;
+        /* line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
         position: relative;
@@ -225,7 +225,7 @@ display: flex;
         height: 4px;
         background-color: #404bbf;
         border-radius: 2px;
-}
+} */ */
 
 .contact-info:hover,
 .contact-info:active,
@@ -233,11 +233,11 @@ display: flex;
     color: #404bbf;
 }
 
-.contact-tel:hover,
+/* .contact-tel:hover,
 .contact-tel:active,
 .contact-tel:focus {
     color: #404bbf;
-}
+} */
 /* < !-- #region for you besness --> */
 
 .for-your-business {
