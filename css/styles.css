@@ -332,9 +332,36 @@ display: flex;
 }
 
 .lisectry {
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+        0px 1px 1px rgba(46, 47, 66, 0.16),
+        0px 2px 1px rgba(46, 47, 66, 0.08);
     width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
 
+}
+.ul-icons-social {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.a-icons-social {
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.a-icons-social:hover,
+.a-icons-social:focus {
+    background-color: #404bbf;
+}
+.svg-icons {
+    width: 40px;
+    height: 40px;
+    fill: #f4f4fd;
 }
 .divsec {
     padding: 32px 0;
