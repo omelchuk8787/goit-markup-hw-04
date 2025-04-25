@@ -397,6 +397,13 @@ display: flex;
     padding-top: 120px;
     padding-bottom: 120px;
 }
+.porfolio-conteiner {
+        position: relative;
+        overflow: hidden;
+        width: 360px;
+        height: 300px;
+        transform: translateY(0%);
+}
 .two-portfolio {
     margin-bottom: 72px;
 }
