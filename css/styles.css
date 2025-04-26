@@ -637,6 +637,11 @@ row-gap: 48px;
     border: none;
     border-radius: 4px;
 }
+.svg-modal {
+    margin-left: 16px;
+    
+}
+
 .button-mdal {
     position: absolute;
     top: 24px;
