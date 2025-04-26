@@ -470,7 +470,11 @@ row-gap: 48px;
     padding: 100px 0;
     background-color: #2e2f42;
 }
-
+.container-footer {
+    display: flex;
+    align-items: baseline;
+    
+}
 .logo-footer {
     display: inline-block;
     margin-bottom: 16px;
