@@ -470,9 +470,22 @@ row-gap: 48px;
     padding: 100px 0;
     background-color: #2e2f42;
 }
-.container-footer {
+.footer-container {
     display: flex;
     align-items: baseline;
+
+}
+.container-footer {
+margin-right: 120px;
+
+}
+.Social-media {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-bottom: 16px;
     
 }
 .logo-footer {
