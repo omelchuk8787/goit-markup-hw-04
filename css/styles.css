@@ -476,17 +476,17 @@ row-gap: 48px;
 
 }
 .container-footer {
-margin-right: 120px;
+    margin-right: 120px;
 
 }
-.Social-media {
+.social-media {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #FFFFFF;
     margin-bottom: 16px;
-    
+
 }
 .logo-footer {
     display: inline-block;
@@ -520,5 +520,10 @@ margin-right: 120px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+}
+.ul-icons-social-footer {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
 }
 /* < !-- #endregion Footer --> */
